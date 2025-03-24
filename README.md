@@ -29,7 +29,3 @@ To install all the dependences of the project, run the following command:
 ![Project Preview](./src/calc-app.png)
 
 
-
-<p align="center">
-  Show some :heart: by starring the repository.
-</p>
