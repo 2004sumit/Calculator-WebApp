@@ -11,7 +11,7 @@
 
 To install all the dependences of the project, run the following command:
 
-    git clone https://github.com/shakti1590/React-Calculator.git
+    git clone https://github.com/2004sumit/Calculator-WebApp.git
     yarn install
     yarn start
 
